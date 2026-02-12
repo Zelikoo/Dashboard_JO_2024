@@ -526,9 +526,9 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-08,Silver Medal,2,AKBAS Hatice,Female,Türkiye,TUR,Türkiye,,,Boxing,Women's 54kg,HATH,/en/paris-2024/results/boxing/women-s-54kg/fnl-000100--,2001-06-24,1568186
 2024-08-08,Bronze Medal,3,PARKER Caitlin,Female,Australia,AUS,Australia,,,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/sfnl000100--,1996-04-17,1940134
 2024-08-08,Bronze Medal,3,DJANKEU NGAMBA Cindy Winner,Female,EOR,EOR,Cameroon,,,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/sfnl000200--,1998-09-07,1894537
-2024-08-08,Gold Medal,1,,,,,,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-CHN01
-2024-08-08,Silver Medal,2,,,,,,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-ITA01
-2024-08-08,Bronze Medal,3,,,,,,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-ESP01
+2024-08-08,Gold Medal,1,,,China,CHN,China,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-CHN01
+2024-08-08,Silver Medal,2,,,Italy,ITA,Italy,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-ITA01
+2024-08-08,Bronze Medal,3,,,Spain,ESP,Spain,,,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,,CSPMC2-500M-ESP01
 2024-08-08,Gold Medal,1,THOMAS Benjamin,Male,France,FRA,France,,,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,1995-09-12,1895717
 2024-08-08,Silver Medal,2,LEITAO Iuri,Male,Portugal,POR,Portugal,,,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,1998-07-03,1933816
 2024-08-08,Bronze Medal,3,van den BOSSCHE Fabio,Male,Belgium,BEL,Belgium,,,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,2000-09-21,1915370
@@ -602,16 +602,16 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-09,Gold Medal,1,FUKSA Martin,Male,Czechia,CZE,Czechia,,,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1993-04-30,1878716
 2024-08-09,Silver Medal,2,QUEIROZ Isaquias,Male,Brazil,BRA,Brazil,,,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1994-01-03,1952595
 2024-08-09,Bronze Medal,3,TARNOVSCHI Serghei,Male,Republic of Moldova,MDA,Republic of Moldova,,,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1997-06-24,1550295
-2024-08-09,Gold Medal,1,,,,,,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-GER01
-2024-08-09,Silver Medal,2,,,,,,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-HUN01
-2024-08-09,Bronze Medal,3,,,,,,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-AUS01
-2024-08-09,Gold Medal,1,,,,,,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-CHN01
-2024-08-09,Silver Medal,2,,,,,,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-UKR01
-2024-08-09,Bronze Medal,3,,,,,,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-CAN01
-2024-08-09,Gold Medal,1,,,,,,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-NZL01
-2024-08-09,Silver Medal,2,,,,,,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-HUN01
-2024-08-09,Bronze Medal,3,,,,,,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-GER01
-2024-08-09,Bronze Medal,3,,,,,,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-HUN02
+2024-08-09,Gold Medal,1,,,Germany,GER,Germany,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-GER01
+2024-08-09,Silver Medal,2,,,Hungary,HUN,Hungary,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-HUN01
+2024-08-09,Bronze Medal,3,,,Australia,AUS,Australia,,,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,,CSPMK2-500M-AUS01
+2024-08-09,Gold Medal,1,,,China,CHN,China,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-CHN01
+2024-08-09,Silver Medal,2,,,Ukraine,UKR,Ukraine,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-UKR01
+2024-08-09,Bronze Medal,3,,,Canada,CAN,Canada,,,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,,CSPWC2-500M-CAN01
+2024-08-09,Gold Medal,1,,,New Zealand,NZL,New Zealand,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-NZL01
+2024-08-09,Silver Medal,2,,,Hungary,HUN,Hungary,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-HUN01
+2024-08-09,Bronze Medal,3,,,Germany,GER,Germany,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-GER01
+2024-08-09,Bronze Medal,3,,,Hungary,HUN,Hungary,,,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,,CSPWK2-500M-HUN02
 2024-08-09,Gold Medal,1,LAVREYSEN Harrie,Male,Netherlands,NED,Netherlands,,,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1997-03-14,1969182
 2024-08-09,Silver Medal,2,RICHARDSON Matthew,Male,Australia,AUS,Australia,,,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1999-04-17,1940263
 2024-08-09,Bronze Medal,3,CARLIN Jack,Male,Great Britain,GBR,Great Britain,,,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1997-04-23,1912515
@@ -653,9 +653,9 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-09,Silver Medal,2,NICHITA Anastasia,Female,Republic of Moldova,MDA,Republic of Moldova,,,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/fnl-000100--,1999-02-19,1572203
 2024-08-09,Bronze Medal,3,MAROULIS Helen Louise,Female,United States,USA,United States,,,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/repf000100--,1991-09-19,1955426
 2024-08-09,Bronze Medal,3,HONG Kexin,Female,China,CHN,China,,,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/repf000200--,2003-01-06,1920010
-2024-08-10,Gold Medal,1,,,,,,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---CHN01
-2024-08-10,Silver Medal,2,,,,,,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---GBR01
-2024-08-10,Bronze Medal,3,,,,,,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---NED01
+2024-08-10,Gold Medal,1,,,China,CHN,China,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---CHN01
+2024-08-10,Silver Medal,2,,,Great Britain,GBR,Great Britain,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---GBR01
+2024-08-10,Bronze Medal,3,,,Netherlands,NED,Netherlands,,,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,,SWAWTEAM2---NED01
 2024-08-10,Gold Medal,1,INGEBRIGTSEN Jakob,Male,Norway,NOR,Norway,,,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,2000-09-19,1898250
 2024-08-10,Silver Medal,2,KWEMOI Ronald,Male,Kenya,KEN,Kenya,,,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,1995-09-19,1963077
 2024-08-10,Bronze Medal,3,FISHER Grant,Male,United States,USA,United States,,,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,1997-04-22,1960959
@@ -1136,7 +1136,6 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-02,Silver Medal,2,FARRINGTON Kent,Male,United States,USA,United States,United States of America,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1980-12-28,1951819
 2024-08-02,Silver Medal,2,KRAUT Laura,Female,United States,USA,United States,United States of America,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1965-11-14,1951840
 2024-08-02,Silver Medal,2,COOK Karl,Male,United States,USA,United States,United States of America,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1990-12-25,1951802
-2024-08-02,Bronze Medal,3,,,,,,France,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,,1899865
 2024-08-02,Bronze Medal,3,DELESTRE Simon,Male,France,FRA,France,France,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1981-06-21,1899843
 2024-08-02,Bronze Medal,3,EPAILLARD Julien,Male,France,FRA,France,France,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1977-07-24,1899845
 2024-08-02,Bronze Medal,3,PERREAU Olivier,Male,France,FRA,France,France,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,1986-06-23,1899856
@@ -1199,7 +1198,6 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-03,Gold Medal,1,BOL Femke,Female,Netherlands,NED,Netherlands,Netherlands,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,2000-02-23,1972078
 2024-08-03,Gold Medal,1,KLAVER Lieke,Female,Netherlands,NED,Netherlands,Netherlands,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,1998-08-20,1972115
 2024-08-03,Gold Medal,1,PEETERS Cathelijn,Female,Netherlands,NED,Netherlands,Netherlands,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,1996-11-06,1972240
-2024-08-03,Gold Medal,1,,,,,,Netherlands,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,,1972077
 2024-08-03,Silver Medal,2,DEADMON Bryce,Male,United States,USA,United States,United States of America,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,1997-03-26,1960590
 2024-08-03,Silver Medal,2,NORWOOD Vernon,Male,United States,USA,United States,United States of America,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,1992-04-10,1960111
 2024-08-03,Silver Medal,2,WILSON Quincy,Male,United States,USA,United States,United States of America,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,2008-01-08,4979564
@@ -1878,7 +1876,6 @@ medal_date,medal_type,medal_code,name,gender,country,country_code,nationality,te
 2024-08-10,Bronze Medal,3,HAYDOCK-WILSON Alex,Male,Great Britain,GBR,Great Britain,Great Britain,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,1999-07-28,1924426
 2024-08-10,Bronze Medal,3,HUDSON-SMITH Matthew,Male,Great Britain,GBR,Great Britain,Great Britain,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,1994-10-26,1924430
 2024-08-10,Bronze Medal,3,REARDON Samuel,Male,Great Britain,GBR,Great Britain,Great Britain,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,2003-10-30,1956853
-2024-08-10,Bronze Medal,3,,,,,,Great Britain,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,,1924402
 2024-08-10,Gold Medal,1,BROWN Kaylyn,Female,United States,USA,United States,United States of America,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,2004-12-31,1960650
 2024-08-10,Gold Medal,1,BUTLER Aaliyah,Female,United States,USA,United States,United States of America,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,2003-11-05,4979555
 2024-08-10,Gold Medal,1,ELLIS Kendall,Female,United States,USA,United States,United States of America,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,1996-03-08,1960984
