@@ -23,7 +23,7 @@ Benin,BEN,EMEA,https://i.ibb.co/z5V3Q1h/bj.png
 Bermuda,BER,LATAM,https://i.ibb.co/Z63F2wP/bm.png
 Bhutan,BHU,APAC,https://i.ibb.co/4tdZdww/bt.png
 Bolivia,BOL,LATAM,https://i.ibb.co/bsyS6jy/bo.png
-Bosnia & Herzegovina,BIH,EMEA,https://i.ibb.co/Fw8TPn9/ba.png
+Bosnia and Herz.,BIH,EMEA,https://i.ibb.co/Fw8TPn9/ba.png
 Botswana,BOT,EMEA,https://i.ibb.co/JpJPnKJ/bw.png
 Brazil,BRA,LATAM,https://i.ibb.co/SR5Md2g/br.png
 Brunei Darussalam,BRU,APAC,https://i.ibb.co/jG0JKy7/bn.png
@@ -35,14 +35,14 @@ Cambodia,CAM,APAC,https://i.ibb.co/6ZnkVjp/kh.png
 Cameroon,CMR,EMEA,https://i.ibb.co/jLNC6tC/cm.png
 Canada,CAN,NA,https://i.ibb.co/V20HTNv/ca.png
 Cayman Islands,CAY,LATAM,https://i.ibb.co/56CQ1m9/ky.png
-Centr Afric Re,CAF,EMEA,https://i.ibb.co/JChH42N/cf.png
+Central African Rep.,CAF,EMEA,https://i.ibb.co/JChH42N/cf.png
 Chad,CHA,EMEA,https://i.ibb.co/RHbb3ZT/td.png
 Chile,CHI,LATAM,https://i.ibb.co/BCdpr3v/cl.png
 China,CHN,APAC,https://i.ibb.co/rtzTqdL/cn.png
+Chinese Taipei,TPE,APAC,https://i.ibb.co/sC0vjrM/tw.png
 Colombia,COL,LATAM,https://i.ibb.co/1TMcQyD/co.png
 Comoros,COM,EMEA,https://i.ibb.co/CnXdyqF/km.png
 Congo,CGO,EMEA,https://i.ibb.co/ZTtWb8N/cg.png
-DR Congo,COD,EMEA,https://i.ibb.co/pL9qGnm/cd.png
 Cook Islands,COK,EMEA,https://i.ibb.co/4F8nWcg/ck.png
 Costa Rica,CRC,LATAM,https://i.ibb.co/px2ZvGk/cr.png
 Côte d'Ivoire,CIV,EMEA,https://i.ibb.co/524wS75/ci.png
@@ -54,13 +54,16 @@ Denmark,DEN,EMEA,https://i.ibb.co/XLxtG7h/dk.png
 Djibouti,DJI,EMEA,https://i.ibb.co/rmdPxqj/dj.png
 Dominica,DMA,LATAM,https://i.ibb.co/HTLcd78/dm.png
 Dominican Republic,DOM,LATAM,https://i.ibb.co/T1gQ3rf/do.png
-DPR Korea,PRK,APAC,https://i.ibb.co/7jJk6cW/kp.png
+North Korea,PRK,APAC,https://i.ibb.co/7jJk6cW/kp.png
+Dem. Rep. Congo,COD,EMEA,https://i.ibb.co/pL9qGnm/cd.png
 Ecuador,ECU,LATAM,https://i.ibb.co/V9nN7Ss/ec.png
 Egypt,EGY,EMEA,https://i.ibb.co/qg3Wn1Z/eg.png
 El Salvador,ESA,LATAM,https://i.ibb.co/pyXQ8wF/sv.png
+EOR,EOR,,https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg
 Equatorial Guinea,GEQ,EMEA,https://i.ibb.co/BfX9NvF/gq.png
 Eritrea,ERI,EMEA,https://i.ibb.co/w6qKk1q/er.png
 Estonia,EST,EMEA,https://i.ibb.co/qmX8tkP/ee.png
+Eswatini,SWZ,,https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg
 Ethiopia,ETH,EMEA,https://i.ibb.co/KLDn3m6/et.png
 Fiji,FIJ,APAC,https://i.ibb.co/6bww7MQ/fj.png
 Finland,FIN,EMEA,https://i.ibb.co/4YMxdLd/fi.png
@@ -70,7 +73,7 @@ Gambia,GAM,EMEA,https://i.ibb.co/fd6KCCk/gm.png
 Georgia,GEO,EMEA,https://i.ibb.co/HCLHY8r/ge.png
 Germany,GER,EMEA,https://i.ibb.co/GdBsDSN/de.png
 Ghana,GHA,EMEA,https://i.ibb.co/r4FvVyL/gh.png
-Great Britain,GBR,EMEA,https://i.ibb.co/tbMNKvt/gb.png
+United Kingdom,GBR,EMEA,https://i.ibb.co/tbMNKvt/gb.png
 Greece,GRE,EMEA,https://i.ibb.co/yXN7J89/gr.png
 Grenada,GRN,LATAM,https://i.ibb.co/Kh8LncP/gd.png
 Guam,GUM,APAC,https://i.ibb.co/rHVCDLd/gu.png
@@ -85,7 +88,7 @@ Hungary,HUN,EMEA,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_
 Iceland,ISL,EMEA,https://i.ibb.co/m6QWrT5/is.png
 India,IND,APAC,https://i.ibb.co/FWwkkSr/in.png
 Indonesia,INA,APAC,https://i.ibb.co/68s4Ytk/id.png
-IR Iran,IRI,EMEA,https://i.ibb.co/LChd7j0/gb-nir.png
+Iran,IRI,EMEA,https://i.ibb.co/LChd7j0/gb-nir.png
 Iraq,IRQ,EMEA,https://i.ibb.co/xLhhqxV/iq.png
 Ireland,IRL,EMEA,https://i.ibb.co/MsrZMHd/ie.png
 Israel,ISR,EMEA,https://i.ibb.co/y4F56c8/il.png
@@ -96,10 +99,11 @@ Jordan,JOR,EMEA,https://i.ibb.co/hmJb3zP/jo.png
 Kazakhstan,KAZ,EMEA,https://i.ibb.co/MngDcym/kz.png
 Kenya,KEN,EMEA,https://i.ibb.co/sq5LCYS/ke.png
 Kiribati,KIR,APAC,https://i.ibb.co/syTVW3P/ki.png
-Korea,KOR,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png
+South Korea,KOR,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png
+Kosovo,KOS,,https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg
 Kuwait,KUW,EMEA,https://i.ibb.co/vZpH11F/kw.png
 Kyrgyzstan,KGZ,EMEA,https://i.ibb.co/ynbbqpK/kg.png
-Lao PDR,LAO,APAC,https://i.ibb.co/DVmYfTc/la.png
+Laos,LAO,APAC,https://i.ibb.co/DVmYfTc/la.png
 Latvia,LAT,EMEA,https://i.ibb.co/340bjzz/lu.png
 Lebanon,LBN,EMEA,https://i.ibb.co/mRQQTQ6/lb.png
 Lesotho,LES,EMEA,https://i.ibb.co/k84FbYW/gb-wls.png
@@ -108,7 +112,6 @@ Libya,LBA,EMEA,https://i.ibb.co/LkQYzHN/lv.png
 Liechtenstein,LIE,EMEA,https://i.ibb.co/tZ96r7f/li.png
 Lithuania,LTU,EMEA,https://i.ibb.co/wJ6bw8r/ls.png
 Luxembourg,LUX,EMEA,https://i.ibb.co/RNsnftm/lt.png
-North Macedonia,MKD,EMEA,https://i.ibb.co/qMVCdMY/mk.png
 Madagascar,MAD,EMEA,https://i.ibb.co/N2mxfGH/mg.png
 Malawi,MAW,EMEA,https://i.ibb.co/LCK7d1M/mw.png
 Malaysia,MAS,APAC,https://i.ibb.co/ZXMwxp5/my.png
@@ -120,7 +123,6 @@ Mauritania,MTN,EMEA,https://i.ibb.co/X7VJpnk/mr.png
 Mauritius,MRI,EMEA,https://i.ibb.co/QD3wQqp/mu.png
 Mexico,MEX,LATAM,https://i.ibb.co/G3tLs9Y/mx.png
 Micronesia,FSM,APAC,https://i.ibb.co/LZPvtzx/fm.png
-Republic of Moldova,MDA,EMEA,https://i.ibb.co/chvMkqx/mc.png
 Monaco,MON,EMEA,https://i.ibb.co/Csb8V04/ma.png
 Mongolia,MGL,APAC,https://i.ibb.co/5vPkTn9/mn.png
 Montenegro,MNE,EMEA,https://i.ibb.co/PD1Zr78/md.png
@@ -135,6 +137,7 @@ New Zealand,NZL,APAC,https://i.ibb.co/NNNrXcv/nz.png
 Nicaragua,NCA,LATAM,https://i.ibb.co/52mXRgG/ng.png
 Niger,NIG,EMEA,https://i.ibb.co/M7WJT9Y/ne.png
 Nigeria,NGR,EMEA,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/640px-Flag_of_Nigeria.svg.png
+Macedonia,MKD,EMEA,https://i.ibb.co/qMVCdMY/mk.png
 Norway,NOR,EMEA,https://i.ibb.co/6PWkT58/nl.png
 Oman,OMA,EMEA,https://i.ibb.co/6HPwvdP/om.png
 Pakistan,PAK,APAC,https://i.ibb.co/f2GZZ4v/pk.png
@@ -149,11 +152,10 @@ Poland,POL,EMEA,https://i.ibb.co/pLtxWBg/pl.png
 Portugal,POR,EMEA,https://i.ibb.co/RgF4S2r/pt.png
 Puerto Rico,PUR,LATAM,https://i.ibb.co/DzndB4p/pr.png
 Qatar,QAT,EMEA,https://i.ibb.co/0DkqS62/qa.png
+Moldova,MDA,EMEA,https://i.ibb.co/chvMkqx/mc.png
 Romania,ROU,EMEA,https://i.ibb.co/KGm16KC/ro.png
 Rwanda,RWA,EMEA,https://i.ibb.co/D5RVQf8/rw.png
-St Kitts and Nevis,SKN,LATAM,https://i.ibb.co/3f2SD26/kn.png
 Saint Lucia,LCA,LATAM,https://i.ibb.co/HnWZVJP/lc.png
-StVincent&Grenadines,VIN,LATAM,https://i.ibb.co/XJVQSKT/vc.png
 Samoa,SAM,APAC,https://i.ibb.co/8sdQQCB/ws.png
 San Marino,SMR,EMEA,https://i.ibb.co/6WZS0PB/sm.png
 Sao Tome & Principe,STP,EMEA,https://i.ibb.co/NWwC8Yj/st.png
@@ -168,15 +170,16 @@ Slovenia,SLO,EMEA,https://i.ibb.co/VNDcVyv/si.png
 Solomon Islands,SOL,APAC,https://i.ibb.co/FJ9bPcd/sb.png
 Somalia,SOM,EMEA,https://i.ibb.co/nQxqjhp/so.png
 South Africa,RSA,EMEA,https://i.ibb.co/L13nBLV/za.png
-South Sudan,SSD,EMEA,https://i.ibb.co/bmZhSk8/ss.png
+S. Sudan,SSD,EMEA,https://i.ibb.co/bmZhSk8/ss.png
 Spain,ESP,EMEA,https://i.ibb.co/5rxBYYm/es.png
 Sri Lanka,SRI,APAC,https://i.ibb.co/Yb7cGRT/lk.png
+St Kitts and Nevis,SKN,LATAM,https://i.ibb.co/3f2SD26/kn.png
+StVincent&Grenadines,VIN,LATAM,https://i.ibb.co/XJVQSKT/vc.png
 Sudan,SUD,EMEA,https://i.ibb.co/mvn78Td/sd.png
 Suriname,SUR,LATAM,https://i.ibb.co/wRr5cbB/sr.png
 Sweden,SWE,EMEA,https://i.ibb.co/R23ptyk/se.png
 Switzerland,SUI,EMEA,https://i.ibb.co/Z2qZPZ9/ch.png
 Syria,SYR,EMEA,https://i.ibb.co/XxWLYgp/sy.png
-Chinese Taipei,TPE,APAC,https://i.ibb.co/sC0vjrM/tw.png
 Tajikistan,TJK,EMEA,https://i.ibb.co/GxsyGmK/tj.png
 Tanzania,TAN,EMEA,https://i.ibb.co/3k7X6px/tz.png
 Thailand,THA,APAC,https://i.ibb.co/WGDFQvq/th.png
@@ -185,13 +188,13 @@ Togo,TOG,EMEA,https://i.ibb.co/SJ7Rp3X/tg.png
 Tonga,TGA,APAC,https://i.ibb.co/Cz694nm/to.png
 Trinidad and Tobago,TTO,LATAM,https://i.ibb.co/Rjq17dk/tt.png
 Tunisia,TUN,EMEA,https://i.ibb.co/ns7pQ1C/tn.png
-Türkiye,TUR,EMEA,https://i.ibb.co/VDRx5sh/tm.png
-Türkiye,TUR,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png?20210808085121
+Turkey,TUR,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png?20210808085121
+Turkmenistan,TKM,,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg
 Tuvalu,TUV,APAC,https://i.ibb.co/Y3Mk6Vh/tv.png
+UA Emirates,UAE,EMEA,https://i.ibb.co/dKnDR1D/ae.png
 Uganda,UGA,EMEA,https://i.ibb.co/c6LkMC3/ug.png
 Ukraine,UKR,EMEA,https://i.ibb.co/TWRQMrd/ua.png
-UA Emirates,UAE,EMEA,https://i.ibb.co/dKnDR1D/ae.png
-United States,USA,NA,https://i.ibb.co/dWvX5nM/um.png
+United States of America,USA,NA,https://i.ibb.co/dWvX5nM/um.png
 Uruguay,URU,LATAM,https://i.ibb.co/NVNHJdy/uy.png
 Uzbekistan,UZB,EMEA,https://i.ibb.co/JdsHMWX/uz.png
 Vanuatu,VAN,APAC,https://i.ibb.co/XXkzYNB/vu.png
@@ -202,7 +205,3 @@ Vietnam,VIE,APAC,https://i.ibb.co/rGJNc0d/vn.png
 Yemen,YEM,EMEA,https://i.ibb.co/r5kSv1Q/ye.png
 Zambia,ZAM,EMEA,https://i.ibb.co/64WDt9H/zm.png
 Zimbabwe,ZIM,EMEA,https://i.ibb.co/Nj5SGvj/zw.png
-EOR,EOR,,https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg
-Eswatini,SWZ,,https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg
-Kosovo,KOS,,https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg
-Turkmenistan,TKM,,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg
